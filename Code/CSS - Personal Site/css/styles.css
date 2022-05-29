@@ -1,0 +1,14 @@
+body {
+    background-color: #eaf6f6;
+  }
+  hr {
+    border-style: none; /* There is no border at all (The hr is unseen)*/
+    border-top-style: dotted; /* Only border is the top side*/
+    border-color: grey;
+    border-width: 5px; /* Sets the width of an element's border */
+    width: 5%;
+  }
+
+  h1, h3 {
+      color: #66BFBF;
+  }
