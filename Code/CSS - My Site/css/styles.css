@@ -6,7 +6,9 @@ body {
     /* background-color: #2fa8e0; */
     /* background-color: #2ba8e2; */
     /* background-color: RGB(43, 200, 300); */
-    background-color: RGB(47, 207, 300);
+    /* background-color: RGB(47, 207, 300); */
+    /* background-color: RGB(47, 207, 300); */
+    background-color: #1086a0;
 }
 
 hr {
@@ -22,21 +24,17 @@ hr {
     /* background-color: #E4F9F5; */
     /* background-color: RGB(43, 207, 300); */
     /* background-color: RGB(47, 207, 300); */
-    background-color: RGB(43, 200, 300);
+    /* background-color: #c1daea; */
+    /* background-color: RGB(43, 200, 300); */
+    background-color: #fff;
     position: relative;
     padding-top: 100px;
 }
 
-.top-cloud {
+.description {
     position: absolute;
-    right: 300px;
-    top: 50px;
-}
-
-.bottom-cloud {
-    position: absolute;
-    left: 300px;
-    bottom: 300px;
+    top: 25%;
+    left: 25%;
 }
 
 .pro {
@@ -46,6 +44,11 @@ hr {
 h1 {
     margin-top: 0;
     font-family: 'My Soul', cursive;
+    font-size: 80px;
+}
+
+.fontaine {
+    width: 100%;
 }
 
 /*** MIDDLE-CONTAINER ***/
