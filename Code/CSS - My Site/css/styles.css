@@ -3,12 +3,7 @@ body {
     margin: 0;
     text-align: center;
     font-family: 'Merriweather', serif;
-    /* background-color: #2fa8e0; */
-    /* background-color: #2ba8e2; */
-    /* background-color: RGB(43, 200, 300); */
-    /* background-color: RGB(47, 207, 300); */
     background-color: #1086a0;
-    /* background-color: #87CEEB; */
 }
 
 hr {
@@ -22,15 +17,8 @@ hr {
 
 /*** TOP-CONTAINER ***/
 .top-container {
-    /* background-color: #E4F9F5; */
-    /* background-color: RGB(43, 207, 300); */
-    /* background-color: RGB(47, 207, 300); */
-    /* background-color: #c1daea; */
-    /* background-color: RGB(43, 200, 300); */
-    /* background-color: #fff; */
     background-color: #87CEEB;
     position: relative;
-    /* padding-top: 100px; */
 }
 
 .description {
