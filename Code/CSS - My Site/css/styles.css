@@ -24,7 +24,7 @@ hr {
 .description {
     position: absolute;
     top: 18%;
-    left: 22%;
+    left: 18%;
 }
 
 .pro {
@@ -33,7 +33,13 @@ hr {
 
 h1 {
     font-family: 'My Soul', cursive;
-    font-size: 80px;
+    font-size: 5.625rem;
+    margin: 0 auto;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
 }
 
 .fontaine {
