@@ -30,16 +30,29 @@ hr {
 .pro {
     text-decoration: underline;
 }
-
+/* headers */
 h1 {
     font-family: 'My Soul', cursive;
     font-size: 5.625rem;
     margin: 0 auto;
+    color: #66BFBF;
+    line-height: 4;
 }
 
 h2{
+    color: #66BFBF;
     font-family: 'Montserrat', sans-serif;
     font-size: 2.5rem;
+    font-weight: normal;
+}
+
+h3 {
+    color: #11999E;
+}
+
+/* anchors */
+a {
+    color: #11999E;
 }
 
 .fontaine {
