@@ -65,6 +65,11 @@ a {
 
 }
 
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+}
+
 /*** BOTTOM-CONTAINER ***/
 .bottom-container {
 
