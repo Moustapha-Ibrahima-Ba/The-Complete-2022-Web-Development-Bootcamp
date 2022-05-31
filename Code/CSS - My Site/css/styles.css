@@ -103,4 +103,27 @@ a {
     /* color: #11999E; */
     /* color: RGB(47, 207, 300); */
     color: #11999E;
+    margin-left: 15px;
 }
+
+.btn {
+    background: #12a3a8;
+    background-image: -webkit-linear-gradient(top, #12a3a8, #3887b5);
+    background-image: -moz-linear-gradient(top, #12a3a8, #3887b5);
+    background-image: -ms-linear-gradient(top, #12a3a8, #3887b5);
+    background-image: -o-linear-gradient(top, #12a3a8, #3887b5);
+    background-image: linear-gradient(to bottom, #12a3a8, #3887b5);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 14px 40px 13px 36px;
+    text-decoration: none;
+  }
+
+  .btn:hover {
+    background: #11999E;
+    text-decoration: none;
+  }
