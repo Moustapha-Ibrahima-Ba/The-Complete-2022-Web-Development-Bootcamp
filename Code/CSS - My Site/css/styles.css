@@ -1,16 +1,16 @@
 /*** BODY ***/
 body {
+    background-color: #1086a0;
+    font-family: 'Merriweather', serif;
     margin: 0;
     text-align: center;
-    font-family: 'Merriweather', serif;
-    background-color: #1086a0;
 }
 
 hr {
-    border-style: none; /* There is no border at all (The hr is unseen)*/
-    border-top-style: dotted; /* Only border is the top side*/
     /* border-color: grey; */
     border-color: RGB(47, 207, 300);
+    border-style: none; /* There is no border at all (The hr is unseen)*/
+    border-top-style: dotted; /* Only border is the top side*/
     border-width: 5px; /* Sets the width of an element's border */
     width: 5%;
   }
@@ -22,9 +22,9 @@ hr {
 }
 
 .description {
+    left: 18%;
     position: absolute;
     top: 18%;
-    left: 18%;
 }
 
 .pro {
@@ -32,11 +32,11 @@ hr {
 }
 /* headers */
 h1 {
+    color: #66BFBF;
     font-family: 'My Soul', cursive;
     font-size: 5.625rem;
-    margin: 0 auto;
-    color: #66BFBF;
     line-height: 4;
+    margin: 0 auto;
 }
 
 h2{
@@ -56,8 +56,8 @@ a {
 }
 
 .fontaine {
-    width: 100%;
     height: 100%;
+    width: 100%;
 }
 
 /*** MIDDLE-CONTAINER ***/
@@ -66,8 +66,8 @@ a {
 }
 
 .skill-row {
-    width: 50%;
     margin: 100px auto 100px auto;
+    width: 50%;
 }
 
 /*** BOTTOM-CONTAINER ***/
