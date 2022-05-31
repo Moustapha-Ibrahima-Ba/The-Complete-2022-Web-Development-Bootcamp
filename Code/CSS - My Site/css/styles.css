@@ -92,5 +92,10 @@ a {
 
 /*** BOTTOM-CONTAINER ***/
 .bottom-container {
+    background-color: #66BFBF;
+}
 
+.signature {
+    margin-bottom: 0;
+    color: #EAF6F6;
 }
