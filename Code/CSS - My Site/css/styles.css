@@ -25,10 +25,12 @@ hr {
     left: 18%;
     position: absolute;
     top: 16%;
+    color: #66BFBF;
 }
 
 .job {
     margin-top: 0;
+    color: #66BFBF;
 }
 
 .pro {
@@ -37,6 +39,7 @@ hr {
 /* headers */
 h1 {
     color: #66BFBF;
+    /* color: RGB(47, 207, 300); */
     font-family: 'My Soul', cursive;
     font-size: 5.625rem;
     line-height: 2;
@@ -44,19 +47,14 @@ h1 {
 }
 
 h2{
-    color: #66BFBF;
+    /* color: #66BFBF; */
+    color: RGB(47, 207, 300);
     font-family: 'Montserrat', sans-serif;
     font-size: 2.5rem;
     font-weight: normal;
 }
 
 h3 {
-    /* color: #11999E; */
-    color: RGB(47, 207, 300);
-}
-
-/* anchors */
-a {
     /* color: #11999E; */
     color: RGB(47, 207, 300);
 }
@@ -98,4 +96,11 @@ a {
 .signature {
     margin-bottom: 0;
     color: #EAF6F6;
+}
+
+/* anchors */
+a {
+    /* color: #11999E; */
+    /* color: RGB(47, 207, 300); */
+    color: #11999E;
 }
