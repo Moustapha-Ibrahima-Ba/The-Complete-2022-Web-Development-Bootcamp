@@ -4,6 +4,7 @@ body {
     font-family: 'Merriweather', serif;
     margin: 0;
     text-align: center;
+    font-weight: bolder;
 }
 
 hr {
@@ -13,6 +14,7 @@ hr {
     border-top-style: dotted; /* Only border is the top side*/
     border-width: 5px; /* Sets the width of an element's border */
     width: 5%;
+    margin-bottom: 90px;
   }
 
 /*** TOP-CONTAINER ***/
@@ -61,8 +63,8 @@ h2{
 }
 
 h3 {
-    /* color: #11999E; */
     color: RGB(47, 207, 300);
+    margin-bottom: 60px;
 }
 
 .fontaine {
@@ -72,7 +74,7 @@ h3 {
 
 /*** MIDDLE-CONTAINER ***/
 .middle-container {
-
+    margin-bottom: 90px;
 }
 
 .skill-row {
@@ -89,28 +91,40 @@ h3 {
 }
 
 .management-img {
-    width: 25%;
+    width: 35%;
     float: right;
     margin-left: 30px;
+}
+
+.contact-me p {
+    margin-bottom: 90px;
+}
+
+.contact-me h2 {
+    margin-bottom: 60px;
+    margin-top: 60px;
 }
 
 /*** BOTTOM-CONTAINER ***/
 .bottom-container {
     background-color: #66BFBF;
     height: 100px;
+    margin-top: 45px;
+    line-height: 3;
+    padding-bottom: 50px;
+    padding-top: 60px;
 }
 
 .signature {
-    margin-bottom: 0;
+    margin: 0;
+    margin-top: 20px;
     color: #EAF6F6;
 }
 
 /* anchors */
 a {
-    /* color: #11999E; */
-    /* color: RGB(47, 207, 300); */
     color: #11999E;
-    margin-left: 15px;
+    margin-left: 45px;
 }
 
 .btn {
