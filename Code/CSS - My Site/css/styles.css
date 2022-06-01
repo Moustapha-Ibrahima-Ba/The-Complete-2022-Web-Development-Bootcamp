@@ -36,6 +36,12 @@ hr {
 .pro {
     text-decoration: underline;
 }
+
+.profile_picture {
+    width: 15%;
+    margin-top: 20px;
+}
+
 /* headers */
 h1 {
     color: #66BFBF;
