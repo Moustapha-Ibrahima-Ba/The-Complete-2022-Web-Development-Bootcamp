@@ -91,6 +91,7 @@ h3 {
 /*** BOTTOM-CONTAINER ***/
 .bottom-container {
     background-color: #66BFBF;
+    height: 100px;
 }
 
 .signature {
